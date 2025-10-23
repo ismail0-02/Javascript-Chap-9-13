@@ -221,6 +221,17 @@ console.log("-----------Chap(9-11)--------------")
 
 console.log("-----------Chap(12-13)--------------")
 
+//  ques 1 //
+//  ans 1 //
+// let alp = prompt("Enter Alphabet")
+// if(alp.charCodeAt()>=65 && alp.charCodeAt()<=90 ){
+//   console.log("It's a uppercase letter.")
+// }
+// else if(alp.charCodeAt()>=97 && alp.charCodeAt()<=122 ){
+//   console.log("It's a lowercase letter.")
+// }
+
+
  // ques 2 //
  // ans 2 //
  
@@ -291,3 +302,22 @@ console.log("-----------Chap(12-13)--------------")
 //     greeting="Good Evening";
 //     alert(greeting)
 // }
+
+ // ques 7 //
+// ans 7 //
+// let time = prompt("Enter the current time")
+// if (time >=0 && time < 1200){
+//   console.log("Good Morning!")
+// }
+// if (time >=1200 && time < 1700){
+//   console.log("Good afternoon!")
+// }
+// if (time >=1700 && time < 2100){
+//   console.log("Good Evening!")
+// }
+// if (time >=2100 && time < 2400){
+//   console.log("Good night!")
+// }
+
+
+
